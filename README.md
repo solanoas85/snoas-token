@@ -1,42 +1,32 @@
-<p align="center">
-  <img src="https://files.chatgpt.com/file_00000000dbe46246bb58d70ec87a0a17" width="180" alt="SNOAS Logo" />
-</p>
+# 💠 SNOAS Token - Solanoas
 
-# 💠 $SNOAS – Solanoas Token
+This is the official smart contract repository for the SNOAS Token, created under the Solanoas project.
 
-**$SNOAS** is an experimental token launched on the **Base blockchain**, inspired by onchain creativity, Web3 culture, and the power of decentralization.
+## 🪙 Token Information
 
-## ✨ Vision
+- **Token Name:** Solanoas
+- **Token Symbol:** SNOAS
+- **Decimals:** 18
+- **Total Supply:** 100,000 SNOAS
+- **Blockchain:** Pharos Testnet
 
-"Minting Ideas" – Solanoas is more than just a token.  
-It's a symbol of imagination, community, and cultural freedom onchain.
+## 🔐 Deployed Contract
 
-## 🔍 Token Details
+- **Network:** Pharos Testnet
+- **Contract Address:** [`0x10dA44D7D270eEC04aA904CAd60c303c7a7602Bd`](https://testnet.pharosscan.xyz/address/0x10dA44D7D270eEC04aA904CAd60c303c7a7602Bd)
+- **Deployer:** `0x23b...d213a`
+- **Transaction Hash:** [`0x584f2e724d70062901d2adfac6de5883199bbcd2fbfef094fb5bcb366f161f40`](https://testnet.pharosscan.xyz/tx/0x584f2e724d70062901d2adfac6de5883199bbcd2fbfef094fb5bcb366f161f40)
 
-- **Name:** Solanoas
-- **Symbol:** $SNOAS
-- **Network:** Base
-- **Total Supply:** 100,000
-- **Fair Launch:** [ZentraFi Launch](https://app.zentrafi.xyz/fair-launch)
+## 📁 Structure
 
-## 📦 Features
+contracts/
+└── SNOAS.sol
+└── ERC20.sol
+└── IERC20.sol
+└── Context.sol
+└── Ownable.sol
 
-- ✅ Fixed supply
-- ✅ Fair launch
-- ✅ Transparent community focus
-- 🔥 Burn mechanism (unsold tokens will be burned)
 
-## 📱 Socials
+## 📜 License
 
-- 🐦 Twitter: [https://twitter.com/solanoas](https://twitter.com/solanoas)
-- 💬 Telegram: [https://t.me/solanoas](https://t.me/solanoas)
-- 🌐 Website: [https://solanoas.xyz](https://solanoas.xyz)
-- 📁 GitHub: [https://github.com/solanoas85](https://github.com/solanoas85)
-
-## 🛠 Contract
-
-> The contract address will be published here after launch.
-
----
-
-> ⚠️ This project is experimental. Always DYOR (Do Your Own Research).
+This project is licensed under the MIT License.
